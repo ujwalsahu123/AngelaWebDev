@@ -1,2 +1,3 @@
-# AngelaWebDev
-It contains all the files of angela and it is updated by me . 
+# web development repo 
+
+it contains all the web devlopment practice codes , projects and etc .
